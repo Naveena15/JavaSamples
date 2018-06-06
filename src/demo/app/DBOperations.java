@@ -5,7 +5,8 @@ import java.sql.*;
 public class DBOperations 
 {
   public static void InsertData
-  (String id,String Name,String FatherName,String Mobile) 
+  (String id,String Name,String FatherName,String Mobile)
+//this is first one to think 
   {
 	  try
 	  {
